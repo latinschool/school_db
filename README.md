@@ -22,6 +22,9 @@ To run your queries, enter:
 	sqlite3 firstdb.db < school.mdf
 
 
+#### RESOURCES 
+[SQL Joins Explained](http://www.sql-join.com/)
+[Visual Explanation of SQL Joins](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 
 
 ## TO DO:
