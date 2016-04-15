@@ -23,8 +23,7 @@ To run your queries, enter:
 
 
 #### RESOURCES 
-[SQL Joins Explained](http://www.sql-join.com/)
-[Visual Explanation of SQL Joins](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+[SQL Joins Explained](http://www.sql-join.com/)  &  [Visual Explanation of SQL Joins](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 
 
 ## TO DO:
